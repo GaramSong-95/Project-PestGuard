@@ -10,6 +10,11 @@ PestGuard 프로젝트 소스코드 주소 첨부
 ![image](https://github.com/user-attachments/assets/8ff477cf-0661-4474-9bd8-ec3b1a22f1d6)  ![image](https://github.com/user-attachments/assets/797fd306-5ec9-47ab-a74f-9265e9837a81)
 
 
+
+![image](https://github.com/user-attachments/assets/a9e99b19-aa23-4a9e-b442-ffe638194268)
+
+
+
 ## 1.프로젝트 개요
 
 **페스트가드 프로젝트는 무인 해충 방제 시스템으로, CCTV 카메라가 바퀴벌레를 탐지하면 터틀봇이 자동으로 해당 위치로 이동하여 해충약을 분사하는 시스템을 구축하는 것을 목표로 했습니다. 이를 위해 OpenCV를 활용한 객체 탐지 및 이동 경로 분석, ROS 기반의 터틀봇 제어, 안드로이드 및 Qt 기반의 사용자 인터페이스 개발 등을 수행하였습니다. 또한 하나의 보드에서 객체 탐지, 데이터 처리, 네트워크 통신, 로봇제어까지 모두 수행하는 저비용의 "엣지 컴퓨팅 기반의 올인원 IoT 시스템"을 목표로 프로젝트를 구현하였습니다.**
