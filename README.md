@@ -6,13 +6,13 @@ PestGuard 프로젝트 소스코드 주소 첨부
 # 페스트가드 프로젝트 – 무인 해충 방제 시스템 구축
 <div align="center">
   ![image](https://github.com/user-attachments/assets/db3aefd7-fe78-4298-8f78-8d297287dcb3)
-  
+</div>  
   ![image](https://github.com/user-attachments/assets/8ff477cf-0661-4474-9bd8-ec3b1a22f1d6)  ![image](https://github.com/user-attachments/assets/797fd306-5ec9-47ab-a74f-9265e9837a81)
   
   
   
   ![image](https://github.com/user-attachments/assets/a9e99b19-aa23-4a9e-b442-ffe638194268)
-</div>
+
 
 
 
