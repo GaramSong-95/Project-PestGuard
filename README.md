@@ -37,6 +37,8 @@ LDS-02 LiDAR 센서를 활용하여 SLAM(Simultaneous Localization and Mapping) 
 
 Jetson Nano 보드를 **ROS 마스터(roscore)**로 설정하고, TurtleBot3를 클라이언트로 연결
 
+OpenCR 보드에 클라이언트 및 약 방제 로직 펌웨어 빌드
+
 TurtleBot3의 Raspberry Pi 4와 OpenCR 보드는 각각 ROS 노드로 동작하며, Jetson Nano와 실시간 메시지 주고받기를 구현
 
 ### ●사용자 인터페이스 개발 (Android Studio & Qt Creator 활용)
