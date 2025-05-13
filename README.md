@@ -12,7 +12,7 @@ PestGuard 프로젝트 소스코드 주소 첨부
   ![image](https://github.com/user-attachments/assets/a9e99b19-aa23-4a9e-b442-ffe638194268)
 </div>  
 
-
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
