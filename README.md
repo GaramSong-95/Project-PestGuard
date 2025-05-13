@@ -14,6 +14,23 @@ PestGuard 프로젝트 소스코드 주소 첨부
 
 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCR-FF5A00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TCP/IP-0A0A0A?style=for-the-badge"/>
+</p>
+
+
+
 ## 1.프로젝트 개요
 
 **페스트가드 프로젝트는 무인 해충 방제 시스템으로, CCTV 카메라가 바퀴벌레를 탐지하면 터틀봇이 자동으로 해당 위치로 이동하여 해충약을 분사하는 시스템을 구축하는 것을 목표로 했습니다. 이를 위해 OpenCV를 활용한 객체 탐지 및 이동 경로 분석, ROS 기반의 터틀봇 제어, 안드로이드 및 Qt 기반의 사용자 인터페이스 개발 등을 수행하였습니다. 또한 하나의 보드에서 객체 탐지, 데이터 처리, 네트워크 통신, 로봇제어까지 모두 수행하는 저비용의 "엣지 컴퓨팅 기반의 올인원 IoT 시스템"을 목표로 프로젝트를 구현하였습니다.**
